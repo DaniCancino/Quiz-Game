@@ -1,0 +1,453 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Axolotl is an amphibian that can spend its whole life in a larval state.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The Harvard architecture for micro-controllers added which additional bus?",
+      "correct_answer": "Instruction",
+      "incorrect_answers": ["Address", "Data", "Control"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is not a wind instrument?",
+      "correct_answer": "Viola",
+      "incorrect_answers": ["Oboe", "Trombone", "Duduk"]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+      "correct_answer": "Nuts",
+      "incorrect_answers": ["Nothing", "Fruit", "Seaweed"]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What&#039;s the name of Batman&#039;s parents?",
+      "correct_answer": "Thomas &amp; Martha",
+      "incorrect_answers": [
+        "Joey &amp; Jackie",
+        "Jason &amp; Sarah",
+        "Todd &amp; Mira"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these is NOT a map included in the game Counter-Strike: Global Offensive?",
+      "correct_answer": "Oilrig",
+      "incorrect_answers": ["Assault", "Mirage", "Cache"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The prefix Sino- (As in Sino-American) is used to refer to what nationality?",
+      "correct_answer": "Chinese",
+      "incorrect_answers": ["Japanese", "Russian", "Indian"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The derisive acronym &quot;PIIGS&quot; refers to which of the following European countries and their economic statuses?",
+      "correct_answer": "Portugal, Ireland, Italy, Greece, Spain",
+      "incorrect_answers": [
+        "Poland, Iceland, Italy, Greece, Serbia",
+        "Poland, Iceland, Italy, Greenland, Spain",
+        "Portugal, Iceland, Ireland, Greece, Serbia"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following blood vessels carries deoxygenated blood?",
+      "correct_answer": "Pulmonary Artery",
+      "incorrect_answers": ["Pulmonary Vein", "Aorta", "Coronary Artery"]
+    },
+    {
+      "category": "Vehicles",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following collision avoidance systems helps airplanes avoid colliding with each other?",
+      "correct_answer": "TCAS",
+      "incorrect_answers": ["GPWS", "OCAS", "TAWS"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the game Nuclear Throne, what organization chases the player character throughout the game?",
+      "correct_answer": "The I.D.P.D",
+      "incorrect_answers": ["The Fishmen", "The Bandits", "The Y.V.G.G"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which one of these rulers did not belong to the Habsburg dynasty?",
+      "correct_answer": "Philip V",
+      "incorrect_answers": ["Charles V", "Philip II", "Francis Joseph"]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The main protagonist of the fifth part of JoJo&#039;s Bizarre Adventure is which of the following?",
+      "correct_answer": "Giorno Giovanna",
+      "incorrect_answers": ["Guido Mista", "Jonathan Joestar", "Joey JoJo"]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In 2016, the IUCN reclassified the status of Giant Pandas from endangered to vulnerable.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these anime have over 7,500 episodes?",
+      "correct_answer": "Sazae-san",
+      "incorrect_answers": ["Naruto", "One Piece", "Chibi Maruko-chan"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "According to Toby Fox, what was the method to creating the initial tune for Megalovania?",
+      "correct_answer": "Singing into a Microphone",
+      "incorrect_answers": [
+        "Playing a Piano",
+        "Using a Composer Software",
+        "Listened to birds at the park"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "When you cry in space, your tears stick to your face.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which iconic album cover features the pulsar waves of CP 1919 placed in the center of the cover?",
+      "correct_answer": "Unknown Pleasures",
+      "incorrect_answers": [
+        "The Dark Side of the Moon",
+        "London Calling",
+        "The Velvet Underground &amp; Nico"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Sean Connery wasn&#039;t in &quot;Indiana Jones and the Kingdom of the Crystal Skull&quot; because he found retirement too enjoyable.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of the Canadian national anthem?",
+      "correct_answer": "O Canada",
+      "incorrect_answers": [
+        "O Red Maple",
+        "Leaf-Spangled Banner",
+        "March of the Puck Drop"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who was the President of the United States during the signing of the Gadsden Purchase?",
+      "correct_answer": "Franklin Pierce",
+      "incorrect_answers": ["Andrew Johnson", "Abraham Lincoln", "James Polk"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who played the Cenobite called &quot;Pinhead&quot; in the original Hellraiser films?",
+      "correct_answer": "Doug Bradley",
+      "incorrect_answers": ["Doug Jones", "Doug Savant", "Doug Benson"]
+    },
+    {
+      "category": "Science: Gadgets",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In what year was the Oculus Rift revealed to the public through a Kickstarter campaign?",
+      "correct_answer": "2012",
+      "incorrect_answers": ["2010", "2011", "2013"]
+    },
+    {
+      "category": "Politics",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The State of Queensland, Australia voted NO to a referendum for daylight savings in 1992.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "History",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Kublai Khan is the grandchild of Genghis Khan?",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;Final Fantasy VI&quot;, what is the name of (summoned) Gilgamesh&#039;s weakest attack?",
+      "correct_answer": "Excalipoor",
+      "incorrect_answers": ["Excalibore", "Excalisnore", "Excalisore"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the game &quot;Brawlhalla&quot;, what species is the character B&ouml;dvar is?",
+      "correct_answer": "Half Human / Half Bear",
+      "incorrect_answers": [
+        "A Human",
+        "Half Wolf / Half Bear",
+        "Half Tiger /  Half Human"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the &quot;Dragon Ball&quot; franchise, what is the name of Goku&#039;s brother?",
+      "correct_answer": "Raditz",
+      "incorrect_answers": ["Gohan", "Vegeta", "Bardock"]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In &quot;SpongeBob SquarePants&quot;, what is the name of Sandy Cheek&#039;s place of residence?",
+      "correct_answer": "Sandy&#039;s Treedome",
+      "incorrect_answers": [
+        "&quot;The Dome&quot;",
+        "Sandy&#039;s Bubble",
+        "Auquatic Reseach Centre"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;Hunter x Hunter&quot;, which of the following is NOT a type of Nen aura?",
+      "correct_answer": "Restoration",
+      "incorrect_answers": ["Emission", "Transmutation", "Specialization"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the name of the hip hop group Kanye West was a member of in the late 90s?",
+      "correct_answer": "The Go-Getters",
+      "incorrect_answers": [
+        "The Jumpers",
+        "The Kickstarters",
+        "The Beat-Busters"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In &quot;My Little Pony: Friendship is Magic&quot;, which of these ponies represents the quality of honesty?",
+      "correct_answer": "Applejack",
+      "incorrect_answers": ["Twilight Sparkle", "Pinkie Pie", "Rarity"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following guitarists recorded an album as a member of the Red Hot Chili Peppers?",
+      "correct_answer": "Dave Navarro",
+      "incorrect_answers": ["Tom Morello ", "Billy Corgan", "Ed O&#039;Brien"]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following was the author of &quot;Username Evie&quot;?",
+      "correct_answer": "Joe Sugg",
+      "incorrect_answers": ["Zoe Sugg", "Joe Weller", "Alfie Deyes"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the 4th boss in the 1997 video game &quot;Crash Bandicoot 2: Cortex Strikes Back&quot;?",
+      "correct_answer": "Dr. N. Gin",
+      "incorrect_answers": ["Dr. Neo Cortex", "Komodo Brothers", "Tiny Tiger"]
+    },
+    {
+      "category": "Entertainment: Board Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the development code name for the &quot;Urza&#039;s Destiny&quot; expansion for &quot;Magic: The Gathering&quot;, released in 1999?",
+      "correct_answer": "Chimichanga",
+      "incorrect_answers": ["Burrito", "Taquito", "Enchilada"]
+    },
+    {
+      "category": "Entertainment: Board Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the development code name for the &quot;Weatherlight&quot; expansion for &quot;Magic: The Gathering&quot;, released in 1997?",
+      "correct_answer": "Mocha Latte",
+      "incorrect_answers": ["Decaf", "Frappuccino", "Macchiato"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When did construction of the Suez Canal finish?",
+      "correct_answer": "1869",
+      "incorrect_answers": ["1859", "1860", "1850"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The Alps are a mountain range on which continent?",
+      "correct_answer": "Europe",
+      "incorrect_answers": ["North America", "Asia", "Africa"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does RAID stand for?",
+      "correct_answer": "Redundant Array of Independent Disks",
+      "incorrect_answers": [
+        "Rapid Access for Indexed Devices",
+        "Range of Applications with Identical Designs",
+        "Randomized Abstract Identification Description"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the official national language of Pakistan?",
+      "correct_answer": "Urdu",
+      "incorrect_answers": ["Indian", "Punjabi", "Pashto"]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "There is an island in Japan called Ōkunoshima, A.K.A. &quot;Rabbit Island&quot;, so named because of it&#039;s huge population of rabbits.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the collective noun for bears?",
+      "correct_answer": "Sloth",
+      "incorrect_answers": ["Drove", "Tribe", "Husk"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who performed the opening theme song for the James Bond 007 movie &quot;Goldfinger&quot;?",
+      "correct_answer": "Shirley Basey",
+      "incorrect_answers": ["Tom Jones", "John Barry", "Sheena Easton"]
+    },
+    {
+      "category": "Vehicles",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The term &quot;GTO&quot; was originated by Ferrari?",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which major extinction event was caused by an asteroid collision and eliminated the majority of non-avian dinosaurs?",
+      "correct_answer": "Cretaceous-Paleogene",
+      "incorrect_answers": [
+        "Triassic&ndash;Jurassic",
+        "Permian&ndash;Triassic",
+        "Ordovician&ndash;Silurian"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On the cover of &#039;Abbey Road,&#039; which of the Beatles is not wearing shoes?",
+      "correct_answer": "Paul McCartney",
+      "incorrect_answers": ["Ringo Starr", "John Lennon", "George Harrison"]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;Homestuck&quot; the &quot;Kingdom of Darkness&quot; is also known as?",
+      "correct_answer": "Derse",
+      "incorrect_answers": ["Skaia", "Prospit", "The Medium"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following are cells of the adaptive immune system?",
+      "correct_answer": "Cytotoxic T cells",
+      "incorrect_answers": [
+        "Dendritic cells",
+        "Natural killer cells",
+        "White blood cells"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these are NOT a Men at Work song?",
+      "correct_answer": "Basket Case",
+      "incorrect_answers": [
+        "Dr. Heckyll and Mr. Jive",
+        "Who Can It Be Now?",
+        "Be Good Johnny"
+      ]
+    }
+  ]
+}

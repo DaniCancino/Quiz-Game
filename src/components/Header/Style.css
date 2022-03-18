@@ -1,0 +1,87 @@
+.Header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 93%;
+  height: 100px;
+  padding-top: 10px;
+}
+
+.Header .trivia-logo {
+  width: 200px;
+  height: 50px;
+}
+
+.Header .greeting {
+  font-size: 2.5rem;
+}
+
+.Header .right-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.Header .right-container .perfil-photo {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 2px solid #1af7aa;
+  margin-right: 10px;
+  -webkit-transition: all ease 0.3s;
+  transition: all ease 0.3s;
+}
+
+.Header .right-container .perfil-photo:hover {
+  cursor: pointer;
+  border: 2px solid #ab2cff;
+}
+
+.Header .right-container .life-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-right: 15px;
+}
+
+.Header .right-container .life-container p {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-right: 5px;
+}
+
+.Header .right-container .life-container .star {
+  width: 30px;
+  height: 30px;
+}
+/*# sourceMappingURL=Style.css.map */

@@ -1,0 +1,25 @@
+.Rules{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+}
+
+.head-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    width: 95%;
+    margin-top: 10px;
+}
+
+.arrow{
+    font-size: 2.5rem;
+    color: #fff;
+}
+
+.test-title{
+    margin-left: 35%;
+}

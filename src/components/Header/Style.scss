@@ -1,0 +1,50 @@
+.Header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 93%;
+    height: 100px;
+    padding-top: 10px;
+    .trivia-logo{
+        width: 200px;
+        height: 50px;
+    }
+    .greeting{
+        font-size: 2.5rem;
+    }
+    .right-container{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        .perfil-photo{
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            border: 2px solid #1af7aa;
+            margin-right: 10px;
+            transition: all ease 0.3s ;
+        }
+        .perfil-photo:hover{
+            cursor: pointer;
+            border: 2px solid #ab2cff;
+        }
+        .life-container{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            margin-right: 15px;
+            p{
+                font-size: 1.4rem;
+                font-weight: 700;
+                margin-right: 5px;
+            }
+            .star{
+                width: 30px;
+                height: 30px;
+            }
+        }
+    }
+}
