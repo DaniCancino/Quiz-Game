@@ -2,6 +2,7 @@ import React from 'react';
 import logo from '../../assets/triviaLogo.png'
 import star from '../../assets/star.png';
 import './Style.css'
+import Perfil from '../Perfil';
 
 
 const Header = ({user, handleLogOut}) =>{
@@ -15,7 +16,7 @@ const Header = ({user, handleLogOut}) =>{
                     <img src={star} alt='star' className='star' />
                 </div>
                 <img src={user.perfilImage} alt='phot' className='perfil-photo'/>
-                <button onClick={() => handleLogOut()}>Log Out</button>
+                <Perfil handleLogOut={handleLogOut}/>
             </div>
         </div>
     )

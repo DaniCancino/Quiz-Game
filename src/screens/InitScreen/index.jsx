@@ -13,7 +13,7 @@ const InitScreen = () =>{
     const auth = getAuth();
     auth.languageCode = 'es';
     const provider = new GoogleAuthProvider();
-    console.log(auth)
+    
 
     const handleLoginGoogle = () =>{
         signInWithPopup(auth, provider)

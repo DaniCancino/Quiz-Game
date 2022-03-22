@@ -48,13 +48,8 @@
   border-radius: 50%;
   border: 2px solid #1af7aa;
   margin-right: 10px;
-  -webkit-transition: all ease 0.3s;
-  transition: all ease 0.3s;
-}
-
-.Header .right-container .perfil-photo:hover {
-  cursor: pointer;
-  border: 2px solid #ab2cff;
+  -webkit-transition: all ease 0.7s;
+  transition: all ease 0.7s;
 }
 
 .Header .right-container .life-container {

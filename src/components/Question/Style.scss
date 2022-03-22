@@ -1,0 +1,30 @@
+.Question{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 37%;
+    height: auto;
+    border: 2px solid #290044;
+    border-radius: 10px;
+    padding: 15px 7.5px;
+    background-color: #1af7aa;
+    box-shadow: 2px 2px 10px #000;
+    .quiestion-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        width: 97%;
+        height: 90%;
+        background-color: #fff;
+        color: #000;
+        border-radius: 10px;
+        padding: 20px 0;
+        p{
+            width: 97%;
+            font-size: 1.1rem;
+            font-weight: 700;
+        }
+    }
+}

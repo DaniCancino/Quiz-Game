@@ -31,7 +31,7 @@
           align-items: center;
   width: 280px;
   height: 60px;
-  border: none;
+  border: 1px solid #290044;
   border-radius: 15px;
   font-size: 1.2rem;
   font-weight: 700;
@@ -46,10 +46,10 @@
 
 .button:hover {
   background-color: #1af7aa;
+  -webkit-box-shadow: 1px 1px 15px #f1f1f1;
+          box-shadow: 1px 1px 15px #f1f1f1;
   color: #290044;
   cursor: pointer;
-  -webkit-transform: scale(1.05, 1.05);
-          transform: scale(1.05, 1.05);
 }
 
 .googleLogo {

@@ -16,6 +16,8 @@
     background-repeat: repeat;
     font-family: 'Nunito', sans-serif;
     color: #fff;
+    user-select: none;
+    overflow: hidden;
   }
   
   .logo{

@@ -2,348 +2,711 @@
   "response_code": 0,
   "results": [
     {
-      "category": "Animals",
-      "type": "boolean",
+      "category": "Science: Computers",
+      "type": "multiple",
       "difficulty": "easy",
-      "question": "The Axolotl is an amphibian that can spend its whole life in a larval state.",
-      "correct_answer": "True",
-      "incorrect_answers": ["False"]
+      "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+      "correct_answer": "Apple",
+      "incorrect_answers": ["Microsoft", "Atari", "Apple", "Commodore"]
     },
     {
       "category": "Science: Computers",
       "type": "multiple",
-      "difficulty": "hard",
-      "question": "The Harvard architecture for micro-controllers added which additional bus?",
-      "correct_answer": "Instruction",
-      "incorrect_answers": ["Address", "Data", "Control"]
-    },
-    {
-      "category": "Entertainment: Music",
-      "type": "multiple",
       "difficulty": "easy",
-      "question": "What is not a wind instrument?",
-      "correct_answer": "Viola",
-      "incorrect_answers": ["Oboe", "Trombone", "Duduk"]
-    },
-    {
-      "category": "Animals",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
-      "correct_answer": "Nuts",
-      "incorrect_answers": ["Nothing", "Fruit", "Seaweed"]
-    },
-    {
-      "category": "Entertainment: Comics",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "What&#039;s the name of Batman&#039;s parents?",
-      "correct_answer": "Thomas &amp; Martha",
+      "question": "In any programming language, what is the most common way to iterate through an array?",
+      "correct_answer": "For loops",
       "incorrect_answers": [
-        "Joey &amp; Jackie",
-        "Jason &amp; Sarah",
-        "Todd &amp; Mira"
+        "If Statements",
+        "Do-while loops",
+        "For loops",
+        "While loops"
       ]
     },
     {
-      "category": "Entertainment: Video Games",
+      "category": "Science: Computers",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Which of these is NOT a map included in the game Counter-Strike: Global Offensive?",
-      "correct_answer": "Oilrig",
-      "incorrect_answers": ["Assault", "Mirage", "Cache"]
-    },
-    {
-      "category": "Geography",
-      "type": "multiple",
-      "difficulty": "hard",
-      "question": "The prefix Sino- (As in Sino-American) is used to refer to what nationality?",
-      "correct_answer": "Chinese",
-      "incorrect_answers": ["Japanese", "Russian", "Indian"]
-    },
-    {
-      "category": "Geography",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "The derisive acronym &quot;PIIGS&quot; refers to which of the following European countries and their economic statuses?",
-      "correct_answer": "Portugal, Ireland, Italy, Greece, Spain",
+      "question": "What does CPU stand for?",
+      "correct_answer": "Central Processing Unit",
       "incorrect_answers": [
-        "Poland, Iceland, Italy, Greece, Serbia",
-        "Poland, Iceland, Italy, Greenland, Spain",
-        "Portugal, Iceland, Ireland, Greece, Serbia"
+        "Central Process Unit",
+        "Computer Personal Unit",
+        "Central Processor Unit",
+        "Central Processing Unit"
       ]
     },
     {
-      "category": "Science & Nature",
+      "category": "Science: Computers",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Which of the following blood vessels carries deoxygenated blood?",
-      "correct_answer": "Pulmonary Artery",
-      "incorrect_answers": ["Pulmonary Vein", "Aorta", "Coronary Artery"]
+      "question": "What does the MP stand for in MP3?",
+      "correct_answer": "Moving Picture",
+      "incorrect_answers": ["Music Player", "Multi Pass", "Moving Picture", "Micro Point"]
     },
     {
-      "category": "Vehicles",
+      "category": "Science: Computers",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Which of the following collision avoidance systems helps airplanes avoid colliding with each other?",
-      "correct_answer": "TCAS",
-      "incorrect_answers": ["GPWS", "OCAS", "TAWS"]
+      "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+      "correct_answer": "1000",
+      "incorrect_answers": ["1000", "512", "1024", "500"]
     },
     {
-      "category": "Entertainment: Video Games",
+      "category": "Science: Computers",
       "type": "multiple",
-      "difficulty": "hard",
-      "question": "In the game Nuclear Throne, what organization chases the player character throughout the game?",
-      "correct_answer": "The I.D.P.D",
-      "incorrect_answers": ["The Fishmen", "The Bandits", "The Y.V.G.G"]
-    },
-    {
-      "category": "History",
-      "type": "multiple",
-      "difficulty": "hard",
-      "question": "Which one of these rulers did not belong to the Habsburg dynasty?",
-      "correct_answer": "Philip V",
-      "incorrect_answers": ["Charles V", "Philip II", "Francis Joseph"]
-    },
-    {
-      "category": "Entertainment: Japanese Anime & Manga",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "The main protagonist of the fifth part of JoJo&#039;s Bizarre Adventure is which of the following?",
-      "correct_answer": "Giorno Giovanna",
-      "incorrect_answers": ["Guido Mista", "Jonathan Joestar", "Joey JoJo"]
-    },
-    {
-      "category": "Animals",
-      "type": "boolean",
       "difficulty": "easy",
-      "question": "In 2016, the IUCN reclassified the status of Giant Pandas from endangered to vulnerable.",
-      "correct_answer": "True",
-      "incorrect_answers": ["False"]
+      "question": "What does GHz stand for?",
+      "correct_answer": "Gigahertz",
+      "incorrect_answers": ["Gigahotz", "Gigahertz", "Gigahetz", "Gigahatz"]
     },
     {
-      "category": "Entertainment: Japanese Anime & Manga",
+      "category": "Science: Computers",
       "type": "multiple",
-      "difficulty": "hard",
-      "question": "Which of these anime have over 7,500 episodes?",
-      "correct_answer": "Sazae-san",
-      "incorrect_answers": ["Naruto", "One Piece", "Chibi Maruko-chan"]
-    },
-    {
-      "category": "Entertainment: Video Games",
-      "type": "multiple",
-      "difficulty": "hard",
-      "question": "According to Toby Fox, what was the method to creating the initial tune for Megalovania?",
-      "correct_answer": "Singing into a Microphone",
+      "difficulty": "easy",
+      "question": "HTML is what type of language?",
+      "correct_answer": "Markup Language",
       "incorrect_answers": [
-        "Playing a Piano",
-        "Using a Composer Software",
-        "Listened to birds at the park"
+        "Macro Language",
+        "Programming Language",
+        "Scripting Language",
+        "Markup Language"
       ]
     },
     {
-      "category": "General Knowledge",
-      "type": "boolean",
-      "difficulty": "easy",
-      "question": "When you cry in space, your tears stick to your face.",
-      "correct_answer": "True",
-      "incorrect_answers": ["False"]
-    },
-    {
-      "category": "Entertainment: Music",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Which iconic album cover features the pulsar waves of CP 1919 placed in the center of the cover?",
-      "correct_answer": "Unknown Pleasures",
-      "incorrect_answers": [
-        "The Dark Side of the Moon",
-        "London Calling",
-        "The Velvet Underground &amp; Nico"
-      ]
-    },
-    {
-      "category": "Entertainment: Film",
-      "type": "boolean",
-      "difficulty": "medium",
-      "question": "Sean Connery wasn&#039;t in &quot;Indiana Jones and the Kingdom of the Crystal Skull&quot; because he found retirement too enjoyable.",
-      "correct_answer": "True",
-      "incorrect_answers": ["False"]
-    },
-    {
-      "category": "Geography",
-      "type": "multiple",
-      "difficulty": "hard",
-      "question": "What is the name of the Canadian national anthem?",
-      "correct_answer": "O Canada",
-      "incorrect_answers": [
-        "O Red Maple",
-        "Leaf-Spangled Banner",
-        "March of the Puck Drop"
-      ]
-    },
-    {
-      "category": "History",
-      "type": "multiple",
-      "difficulty": "hard",
-      "question": "Who was the President of the United States during the signing of the Gadsden Purchase?",
-      "correct_answer": "Franklin Pierce",
-      "incorrect_answers": ["Andrew Johnson", "Abraham Lincoln", "James Polk"]
-    },
-    {
-      "category": "Entertainment: Film",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Who played the Cenobite called &quot;Pinhead&quot; in the original Hellraiser films?",
-      "correct_answer": "Doug Bradley",
-      "incorrect_answers": ["Doug Jones", "Doug Savant", "Doug Benson"]
-    },
-    {
-      "category": "Science: Gadgets",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "In what year was the Oculus Rift revealed to the public through a Kickstarter campaign?",
-      "correct_answer": "2012",
-      "incorrect_answers": ["2010", "2011", "2013"]
-    },
-    {
-      "category": "Politics",
-      "type": "boolean",
-      "difficulty": "medium",
-      "question": "The State of Queensland, Australia voted NO to a referendum for daylight savings in 1992.",
-      "correct_answer": "True",
-      "incorrect_answers": ["False"]
-    },
-    {
-      "category": "History",
-      "type": "boolean",
-      "difficulty": "easy",
-      "question": "Kublai Khan is the grandchild of Genghis Khan?",
-      "correct_answer": "True",
-      "incorrect_answers": ["False"]
-    },
-    {
-      "category": "Entertainment: Video Games",
-      "type": "multiple",
-      "difficulty": "hard",
-      "question": "In &quot;Final Fantasy VI&quot;, what is the name of (summoned) Gilgamesh&#039;s weakest attack?",
-      "correct_answer": "Excalipoor",
-      "incorrect_answers": ["Excalibore", "Excalisnore", "Excalisore"]
-    },
-    {
-      "category": "Entertainment: Video Games",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "In the game &quot;Brawlhalla&quot;, what species is the character B&ouml;dvar is?",
-      "correct_answer": "Half Human / Half Bear",
-      "incorrect_answers": [
-        "A Human",
-        "Half Wolf / Half Bear",
-        "Half Tiger /  Half Human"
-      ]
-    },
-    {
-      "category": "Entertainment: Japanese Anime & Manga",
-      "type": "multiple",
-      "difficulty": "hard",
-      "question": "In the &quot;Dragon Ball&quot; franchise, what is the name of Goku&#039;s brother?",
-      "correct_answer": "Raditz",
-      "incorrect_answers": ["Gohan", "Vegeta", "Bardock"]
-    },
-    {
-      "category": "Entertainment: Cartoon & Animations",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "In &quot;SpongeBob SquarePants&quot;, what is the name of Sandy Cheek&#039;s place of residence?",
-      "correct_answer": "Sandy&#039;s Treedome",
-      "incorrect_answers": [
-        "&quot;The Dome&quot;",
-        "Sandy&#039;s Bubble",
-        "Auquatic Reseach Centre"
-      ]
-    },
-    {
-      "category": "Entertainment: Japanese Anime & Manga",
-      "type": "multiple",
-      "difficulty": "hard",
-      "question": "In &quot;Hunter x Hunter&quot;, which of the following is NOT a type of Nen aura?",
-      "correct_answer": "Restoration",
-      "incorrect_answers": ["Emission", "Transmutation", "Specialization"]
-    },
-    {
-      "category": "Entertainment: Music",
-      "type": "multiple",
-      "difficulty": "hard",
-      "question": "What was the name of the hip hop group Kanye West was a member of in the late 90s?",
-      "correct_answer": "The Go-Getters",
-      "incorrect_answers": [
-        "The Jumpers",
-        "The Kickstarters",
-        "The Beat-Busters"
-      ]
-    },
-    {
-      "category": "Entertainment: Cartoon & Animations",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "In &quot;My Little Pony: Friendship is Magic&quot;, which of these ponies represents the quality of honesty?",
-      "correct_answer": "Applejack",
-      "incorrect_answers": ["Twilight Sparkle", "Pinkie Pie", "Rarity"]
-    },
-    {
-      "category": "Entertainment: Music",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Which of the following guitarists recorded an album as a member of the Red Hot Chili Peppers?",
-      "correct_answer": "Dave Navarro",
-      "incorrect_answers": ["Tom Morello ", "Billy Corgan", "Ed O&#039;Brien"]
-    },
-    {
-      "category": "Entertainment: Books",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Which of the following was the author of &quot;Username Evie&quot;?",
-      "correct_answer": "Joe Sugg",
-      "incorrect_answers": ["Zoe Sugg", "Joe Weller", "Alfie Deyes"]
-    },
-    {
-      "category": "Entertainment: Video Games",
-      "type": "multiple",
-      "difficulty": "hard",
-      "question": "What is the 4th boss in the 1997 video game &quot;Crash Bandicoot 2: Cortex Strikes Back&quot;?",
-      "correct_answer": "Dr. N. Gin",
-      "incorrect_answers": ["Dr. Neo Cortex", "Komodo Brothers", "Tiny Tiger"]
-    },
-    {
-      "category": "Entertainment: Board Games",
-      "type": "multiple",
-      "difficulty": "hard",
-      "question": "What was the development code name for the &quot;Urza&#039;s Destiny&quot; expansion for &quot;Magic: The Gathering&quot;, released in 1999?",
-      "correct_answer": "Chimichanga",
-      "incorrect_answers": ["Burrito", "Taquito", "Enchilada"]
-    },
-    {
-      "category": "Entertainment: Board Games",
-      "type": "multiple",
-      "difficulty": "hard",
-      "question": "What was the development code name for the &quot;Weatherlight&quot; expansion for &quot;Magic: The Gathering&quot;, released in 1997?",
-      "correct_answer": "Mocha Latte",
-      "incorrect_answers": ["Decaf", "Frappuccino", "Macchiato"]
-    },
-    {
-      "category": "History",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "When did construction of the Suez Canal finish?",
-      "correct_answer": "1869",
-      "incorrect_answers": ["1859", "1860", "1850"]
-    },
-    {
-      "category": "Geography",
+      "category": "Science: Computers",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "The Alps are a mountain range on which continent?",
-      "correct_answer": "Europe",
-      "incorrect_answers": ["North America", "Asia", "Africa"]
+      "question": "What amount of bits commonly equals one byte?",
+      "correct_answer": "8",
+      "incorrect_answers": ["1", "2", "8", "64"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+      "correct_answer": "Motherboard",
+      "incorrect_answers": [
+        "Motherboard",
+        "Central Processing Unit",
+        "Hard Disk Drive",
+        "Random Access Memory"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesnt get modified?",
+      "correct_answer": "Final",
+      "incorrect_answers": ["Final", "Static", "Private", "Public"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "If you were to code software in this language you only be able to type 0's and 1's.",
+      "correct_answer": "Binary",
+      "incorrect_answers": ["JavaScript", "C++", "Binary", "Python"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does the Prt Sc button do?",
+      "correct_answer": "Captures what's on the screen and copies it to your clipboard",
+      "incorrect_answers": [
+        "Captures what's on the screen and copies it to your clipboard",
+        "Nothing",
+        "Saves a .png file of what's on the screen in your screenshots folder in photos",
+        "Closes all windows"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+      "correct_answer": "HD Graphics 500",
+      "incorrect_answers": [
+        "HD Graphics 700 ",
+        "HD Graphics 600",
+        "HD Graphics 500",
+        "HD Graphics 7000"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+      "correct_answer": ".svg",
+      "incorrect_answers": [".png", ".jpeg", ".gif", ".svg"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In web design, what does CSS stand for?",
+      "correct_answer": "Cascading Style Sheet",
+      "incorrect_answers": [
+        "Counter Strike: Source",
+        "Cascading Style Sheet",
+        "Corrective Style Sheet",
+        "Computer Style Sheet"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the code name for the mobile operating system Android 7.0?",
+      "correct_answer": "Nougat",
+      "incorrect_answers": ["Ice Cream Sandwich", "Jelly Bean", "Marshmallow", "Nougat"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the domain name for the country Tuvalu?",
+      "correct_answer": ".tv",
+      "incorrect_answers": [".tu", ".tv", ".tt", ".tl"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many kilobytes in one gigabyte (in decimal)?",
+      "correct_answer": "1000000",
+      "incorrect_answers": ["1024", "1000", "1000000", "1048576"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "On Twitter, what was the original character limit for a Tweet?",
+      "correct_answer": "140",
+      "incorrect_answers": ["120", "140", "160", "100"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In Hexadecimal, what color would be displayed from the color code? #00FF00?",
+      "correct_answer": "Green",
+      "incorrect_answers": ["Green", "Red", "Blue", "Yellow"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which computer language would you associate Django framework with?",
+      "correct_answer": "Python",
+      "incorrect_answers": ["C#", "C++", "Java", "Python"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The numbering system with a radix of 16 is more commonly referred to as ",
+      "correct_answer": "Hexidecimal",
+      "incorrect_answers": ["Binary", "Duodecimal", "Hexidecimal", "Octal"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "This mobile OS held the largest market share in 2012.",
+      "correct_answer": "iOS",
+      "incorrect_answers": ["iOS", "Android", "BlackBerry", "Symbian"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many values can a single byte represent?",
+      "correct_answer": "256",
+      "incorrect_answers": ["8", "256", "1", "1024"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The C programming language was created by this American computer scientist. ",
+      "correct_answer": "Dennis Ritchie",
+      "incorrect_answers": ["Tim Berners Lee", "Dennis Ritchie", "al-Khwārizmī", "Willis Ware"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which programming language shares its name with an island in Indonesia?",
+      "correct_answer": "Java",
+      "incorrect_answers": ["Python", "C", "Jakarta", "Java"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How long is an IPv6 address?",
+      "correct_answer": "128 bits",
+      "incorrect_answers": ["32 bits", "64 bits", "128 bits", "128 bytes"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In computing, what does LAN stand for?",
+      "correct_answer": "Local Area Network",
+      "incorrect_answers": [
+        "Long Antenna Node",
+        "Light Access Node",
+        "Land Address Navigation",
+        "Local Area Network"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What language does Node.js use?",
+      "correct_answer": "JavaScript",
+      "incorrect_answers": ["JavaScript", "Java", "Java Source", "Joomla Source Code"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does the computer software acronym JVM stand for?",
+      "correct_answer": "Java Virtual Machine",
+      "incorrect_answers": [
+        "Java Virtual Machine",
+        "Java Vendor Machine",
+        "Java Visual Machine",
+        "Just Virtual Machine"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which internet company began life as an online bookstore called Cadabra?",
+      "correct_answer": "Amazon",
+      "incorrect_answers": ["eBay", "Amazon", "Overstock", "Shopify"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Whistler was the codename of this Microsoft Operating System.",
+      "correct_answer": "Windows XP",
+      "incorrect_answers": ["Windows 2000", "Windows XP", "Windows 7", "Windows 95"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does AD stand for in relation to Windows Operating Systems? ",
+      "correct_answer": "Active Directory",
+      "incorrect_answers": [
+        "Alternative Drive",
+        "Automated Database",
+        "Active Department",
+        "Active Directory"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When was the programming language C# released?",
+      "correct_answer": "2000",
+      "incorrect_answers": ["1998", "1999", "2000", "2001"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What five letter word is the motto of the IBM Computer company?",
+      "correct_answer": "Think",
+      "incorrect_answers": ["Click", "Logic", "Think", "Pixel"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On which computer hardware device is the BIOS chip located?",
+      "correct_answer": "Motherboard",
+      "incorrect_answers": [
+        "Motherboard",
+        "Hard Disk Drive",
+        "Central Processing Unit",
+        "Graphics Processing Unit"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following languages is used as a scripting language in the Unity 3D game engine?",
+      "correct_answer": "C#",
+      "incorrect_answers": ["C#", "Java", "C++", "Objective-C"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+      "correct_answer": "Inkscape",
+      "incorrect_answers": ["Paint.NET", "GIMP", "Inkscape", "Adobe Photoshop"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+      "correct_answer": "Taiwan",
+      "incorrect_answers": [
+        "United States",
+        "Germany",
+        "Taiwan",
+        "China"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What did the name of the Tor Anonymity Network orignially stand for?",
+      "correct_answer": "The Onion Router",
+      "incorrect_answers": [
+        "The Onion Router",
+        "The Only Router",
+        "The Orange Router",
+        "The Ominous Router"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the first commerically available computer processor?",
+      "correct_answer": "Intel 4004",
+      "incorrect_answers": ["Intel 486SX", "TMS 1000", "Intel 4004", "AMD AM386"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the name given to Android 4.3?",
+      "correct_answer": "Jelly Bean",
+      "incorrect_answers": ["Lollipop", "Nutella", "Froyo", "Jelly Bean"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+      "correct_answer": "Clipper Chip",
+      "incorrect_answers": ["Enigma Machine", "Skipjack", "Nautilus", "Clipper Chip"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On which day did the World Wide Web go online?",
+      "correct_answer": "December 20, 1990",
+      "incorrect_answers": [
+        "December 20, 1990",
+        "December 17, 1996",
+        "November 12, 1990",
+        "November 24, 1995"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "While Apple was formed in California, in which western state was Microsoft founded?",
+      "correct_answer": "New Mexico",
+      "incorrect_answers": ["Washington", "Colorado", "New Mexico", "Arizona"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does the acronym CDN stand for in terms of networking?",
+      "correct_answer": "Content Delivery Network",
+      "incorrect_answers": [
+        "Content Distribution Network",
+        "Computational Data Network",
+        "Compressed Data Network",
+        "Content Delivery Network"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many cores does the Intel i7-6950X have?",
+      "correct_answer": "10",
+      "incorrect_answers": ["10", "12", "8", "4"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which one of these is not an official development name for a Ubuntu release?",
+      "correct_answer": "Mystic Mansion",
+      "incorrect_answers": ["Mystic Mansion", "Trusty Tahr", "Utopic Unicorn", "Wily Werewolf"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the server hosting industry IaaS stands for...",
+      "correct_answer": "Infrastructure as a Service",
+      "incorrect_answers": [
+        "Internet as a Service",
+        "Internet and a Server",
+        "Infrastructure as a Server",
+        "Infrastructure as a Service"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+      "correct_answer": "JavaScript",
+      "incorrect_answers": ["C#", "Python", "JavaScript", "PHP"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the default theme that is installed with Windows XP?",
+      "correct_answer": "Luna",
+      "incorrect_answers": ["Neptune", "Whistler", "Luna", "Bliss"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the programming language Python, which of these statements would display the string Hello World correctly?",
+      "correct_answer": "print('Hello World')",
+      "incorrect_answers": [
+        "console.log('Hello World')",
+        "echo 'Hello World'",
+        "printf('Hello World')",
+        "print('Hello World')"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+      "correct_answer": "<marquee></marquee>",
+      "incorrect_answers": [
+        "<scroll></scroll>",
+        "<move></move>",
+        "<marquee></marquee>",
+        "<slide></slide>"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In CSS, which of these values CANNOT be used with the position property?",
+      "correct_answer": "center",
+      "incorrect_answers": ["center", "static", "absolute", "relative"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?",
+      "correct_answer": "Heat Sink",
+      "incorrect_answers": ["CPU Vent", "Temperature Decipator", "Heat Sink", "Heat Vent"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In programming, the ternary operator is mostly defined with what symbol(s)?",
+      "correct_answer": "?:",
+      "incorrect_answers": ["??", "if then", "?"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these programming languages is a low-level language?",
+      "correct_answer": "Assembly",
+      "incorrect_answers": ["Python", "C#", "Pascal", "Assembly"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In computing terms, typically what does CLI stand for?",
+      "correct_answer": "Command Line Interface",
+      "incorrect_answers": [
+        "Common Language Input",
+        "Command Line Interface",
+        "Control Line Interface",
+        "Common Language Interface"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How fast is USB 3.1 Gen 2 theoretically?",
+      "correct_answer": "10 Gb/s",
+      "incorrect_answers": ["5 Gb/s", "8 Gb/s", "10 Gb/s", "1 Gb/s"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does LCD stand for?",
+      "correct_answer": "Liquid Crystal Display",
+      "incorrect_answers": [
+        "Liquid Crystal Display",
+        "Language Control Design",
+        "Last Common Difference",
+        "Long Continuous Design"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which operating system was released first?",
+      "correct_answer": "Mac OS",
+      "incorrect_answers": ["Mac OS", "Windows", "Linux", "OS/2"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+      "correct_answer": "FM-7",
+      "incorrect_answers": ["PC-9801", "FM-7", "Xmillennium ", "MSX"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": ".at is the top-level domain for what country?",
+      "correct_answer": "Austria",
+      "incorrect_answers": ["Argentina", "Australia", "Angola", "Austria"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does the term GPU stand for?",
+      "correct_answer": "Graphics Processing Unit",
+      "incorrect_answers": [
+        "Gaming Processor Unit",
+        "Graphite Producing Unit",
+        "Graphical Proprietary Unit",
+        "Graphics Processing Unit"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the main CPU is the Sega Mega Drive / Sega Genesis?",
+      "correct_answer": "Motorola 68000",
+      "incorrect_answers": ["Zilog Z80", "Motorola 68000", "Yamaha YM2612", "Intel 8088"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the first Android version specifically optimized for tablets?",
+      "correct_answer": "Honeycomb",
+      "incorrect_answers": ["Eclair", "Froyo", "Marshmellow", "Honeycomb"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these people was NOT a founder of Apple Inc?",
+      "correct_answer": "Jonathan Ive",
+      "incorrect_answers": ["Steve Jobs", "Ronald Wayne", "Steve Wozniak"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When did the online streaming service Mixer launch?",
+      "correct_answer": "2016",
+      "incorrect_answers": ["2013", "2009", "2016", "2011"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+      "correct_answer": "Non-impact printer",
+      "incorrect_answers": [
+        "Non-impact printer",
+        "Impact printer",
+        "Daisywheel printer",
+        "Dot matrix printer"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does the term MIME stand for, in regards to computing?",
+      "correct_answer": "Multipurpose Internet Mail Extensions",
+      "incorrect_answers": [
+        "Mail Internet Mail Exchange",
+        "Multipurpose Interleave Mail Exchange",
+        "Multipurpose Internet Mail Extensions",
+        "Mail Interleave Method Exchange"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which programming language was developed by Sun Microsystems in 1995?",
+      "correct_answer": "Java",
+      "incorrect_answers": ["Java", "Python", "Solaris OS", "C++"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The name of technology company HP stands for what?",
+      "correct_answer": "Hewlett-Packard",
+      "incorrect_answers": ["Howard Packmann", "Hewlett-Packard", "Husker-Pollosk", "Hellman-Pohl"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Approximately how many Apple I personal computers were created?",
+      "correct_answer": "200",
+      "incorrect_answers": ["100", "500", "1000", "200"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In programming, what do you call functions with the same name but different implementations?",
+      "correct_answer": "Overloading",
+      "incorrect_answers": ["Overriding", "Abstracting", "Overloading", "Inheriting"]
     },
     {
       "category": "Science: Computers",
@@ -354,100 +717,329 @@
       "incorrect_answers": [
         "Rapid Access for Indexed Devices",
         "Range of Applications with Identical Designs",
+        "Redundant Array of Independent Disks",
         "Randomized Abstract Identification Description"
       ]
     },
     {
-      "category": "Geography",
+      "category": "Science: Computers",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "What is the official national language of Pakistan?",
-      "correct_answer": "Urdu",
-      "incorrect_answers": ["Indian", "Punjabi", "Pashto"]
+      "question": "The teapot often seen in many 3D modeling applications is called what?",
+      "correct_answer": "Utah Teapot",
+      "incorrect_answers": ["Utah Teapot", "Pixar Teapot", "3D Teapot", "Tennessee Teapot"]
     },
     {
-      "category": "Geography",
-      "type": "boolean",
-      "difficulty": "easy",
-      "question": "There is an island in Japan called Ōkunoshima, A.K.A. &quot;Rabbit Island&quot;, so named because of it&#039;s huge population of rabbits.",
-      "correct_answer": "True",
-      "incorrect_answers": ["False"]
-    },
-    {
-      "category": "Animals",
+      "category": "Science: Computers",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "What is the collective noun for bears?",
-      "correct_answer": "Sloth",
-      "incorrect_answers": ["Drove", "Tribe", "Husk"]
+      "question": "What is the number of keys on a standard Windows Keyboard?",
+      "correct_answer": "104",
+      "incorrect_answers": ["64", "104", "94", "76"]
     },
     {
-      "category": "Entertainment: Film",
+      "category": "Science: Computers",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Who performed the opening theme song for the James Bond 007 movie &quot;Goldfinger&quot;?",
-      "correct_answer": "Shirley Basey",
-      "incorrect_answers": ["Tom Jones", "John Barry", "Sheena Easton"]
-    },
-    {
-      "category": "Vehicles",
-      "type": "boolean",
-      "difficulty": "hard",
-      "question": "The term &quot;GTO&quot; was originated by Ferrari?",
-      "correct_answer": "True",
-      "incorrect_answers": ["False"]
-    },
-    {
-      "category": "Science & Nature",
-      "type": "multiple",
-      "difficulty": "hard",
-      "question": "Which major extinction event was caused by an asteroid collision and eliminated the majority of non-avian dinosaurs?",
-      "correct_answer": "Cretaceous-Paleogene",
+      "question": "Unix Time is defined as the number of seconds that have elapsed since when?",
+      "correct_answer": "Midnight, January 1, 1970",
       "incorrect_answers": [
-        "Triassic&ndash;Jurassic",
-        "Permian&ndash;Triassic",
-        "Ordovician&ndash;Silurian"
+        "Midnight, July 4, 1976",
+        "Midnight on the creator of Unix's birthday",
+        "Midnight, July 4, 1980",
+        "Midnight, January 1, 1970"
       ]
     },
     {
-      "category": "Entertainment: Music",
+      "category": "Science: Computers",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "On the cover of &#039;Abbey Road,&#039; which of the Beatles is not wearing shoes?",
-      "correct_answer": "Paul McCartney",
-      "incorrect_answers": ["Ringo Starr", "John Lennon", "George Harrison"]
+      "question": "How many bits make up the significand portion of a single precision floating point number?",
+      "correct_answer": "23",
+      "incorrect_answers": ["8", "53", "23", "15"]
     },
     {
-      "category": "Entertainment: Comics",
+      "category": "Science: Computers",
       "type": "multiple",
-      "difficulty": "easy",
-      "question": "In &quot;Homestuck&quot; the &quot;Kingdom of Darkness&quot; is also known as?",
-      "correct_answer": "Derse",
-      "incorrect_answers": ["Skaia", "Prospit", "The Medium"]
+      "difficulty": "medium",
+      "question": "What does the S in the RSA encryption algorithm stand for?",
+      "correct_answer": "Shamir",
+      "incorrect_answers": ["Secure", "Schottky", "Stable", "Shamir"]
     },
     {
-      "category": "Science & Nature",
+      "category": "Science: Computers",
       "type": "multiple",
       "difficulty": "hard",
-      "question": "Which of the following are cells of the adaptive immune system?",
-      "correct_answer": "Cytotoxic T cells",
+      "question": "What was the name of the security vulnerability found in Bash in 2014?",
+      "correct_answer": "Shellshock",
+      "incorrect_answers": ["Heartbleed", "Bashbug", "Shellshock", "Stagefright"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many Hz does the video standard PAL support?",
+      "correct_answer": "50",
+      "incorrect_answers": ["59", "50", "60", "25"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+      "correct_answer": "Micronesia",
+      "incorrect_answers": ["Fiji", "Tuvalu", "Micronesia", "Marshall Islands"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these names was an actual codename for a cancelled Microsoft project?",
+      "correct_answer": "Neptune",
+      "incorrect_answers": ["Neptune", "Enceladus", "Pollux", "Saturn"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What port does HTTP run on?",
+      "correct_answer": "80",
+      "incorrect_answers": ["53", "443", "23", "80"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+      "correct_answer": "Heartbleed",
+      "incorrect_answers": ["Shellshock", "Heartbleed", "Corrupted Blood", "Shellscript"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who is the original author of the realtime physics engine called PhysX?",
+      "correct_answer": "NovodeX",
+      "incorrect_answers": ["NovodeX", "Ageia", "Nvidia", "AMD"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which data structure does FILO apply to?",
+      "correct_answer": "Stack",
+      "incorrect_answers": ["Queue", "Heap", "Tree", "Stack"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following is the oldest of these computers by release date?",
+      "correct_answer": "TRS-80",
+      "incorrect_answers": ["Commodore 64", "ZX Spectrum", "Apple 3", "TRS-80"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "America Online (AOL) started out as which of these online service providers?",
+      "correct_answer": "Quantum Link",
+      "incorrect_answers": ["CompuServe", "Quantum Link", "Prodigy", "GEnie"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these is not a key value of Agile software development?",
+      "correct_answer": "Comprehensive documentation",
       "incorrect_answers": [
-        "Dendritic cells",
-        "Natural killer cells",
-        "White blood cells"
+        "Comprehensive documentation",
+        "Individuals and interactions",
+        "Customer collaboration",
+        "Responding to change"
       ]
     },
     {
-      "category": "Entertainment: Music",
+      "category": "Science: Computers",
       "type": "multiple",
-      "difficulty": "easy",
-      "question": "Which of these are NOT a Men at Work song?",
-      "correct_answer": "Basket Case",
+      "difficulty": "hard",
+      "question": "What does the International System of Quantities refer 1024 bytes as?",
+      "correct_answer": "Kibibyte",
+      "incorrect_answers": ["Kylobyte", "Kibibyte", "Kilobyte", "Kelobyte"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which RAID array type is associated with data mirroring?",
+      "correct_answer": "RAID 1",
+      "incorrect_answers": ["RAID 1", "RAID 0", "RAID 10", "RAID 5"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the first company to use the term Golden Master?",
+      "correct_answer": "Apple",
+      "incorrect_answers": ["IBM", "Microsoft", "Apple", "Google"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?",
+      "correct_answer": "Cheetah",
+      "incorrect_answers": ["Puma", "Tiger", "Leopard", "Cheetah"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+      "correct_answer": "Game Maker",
+      "incorrect_answers": ["Stencyl", "Construct", "Torque 2D", "Game Maker"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?",
+      "correct_answer": "Transport",
+      "incorrect_answers": ["Transport", "Session", "Data link", "Network"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What vulnerability ranked #1 on the OWASP Top 10 in 2013?",
+      "correct_answer": "Injection ",
       "incorrect_answers": [
-        "Dr. Heckyll and Mr. Jive",
-        "Who Can It Be Now?",
-        "Be Good Johnny"
+        "Broken Authentication",
+        "Cross-Site Scripting",
+        "Injection ",
+        "Insecure Direct Object References"
       ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who invented the Spanning Tree Protocol?",
+      "correct_answer": "Radia Perlman",
+      "incorrect_answers": ["Paul Vixie", "Radia Perlman", "Vint Cerf", "Michael Roberts"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "According to DeMorgan's Theorem, the Boolean expression (AB) is equivalent to:",
+      "correct_answer": "A + B",
+      "incorrect_answers": [
+        "AB + BA",
+        "AB",
+        "A + B",
+        "AB + AB"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What major programming language does Unreal Engine 4 use?",
+      "correct_answer": "C++",
+      "incorrect_answers": ["Assembly", "C#", "ECMAScript", "C++"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The acronym RIP stands for which of these?",
+      "correct_answer": "Routing Information Protocol",
+      "incorrect_answers": [
+        "Runtime Instance Processes",
+        "Regular Interval Processes",
+        "Routing Information Protocol",
+        "Routine Inspection Protocol"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these is not a layer in the OSI model for data communications?",
+      "correct_answer": "Connection Layer",
+      "incorrect_answers": [
+        "Connection Layer",
+        "Application Layer",
+        "Transport Layer",
+        "Physical Layer"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the name of the first Bulgarian personal computer?",
+      "correct_answer": "IMKO-1",
+      "incorrect_answers": ["Pravetz 82", "IMKO-1", "Pravetz 8D", "IZOT 1030"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+      "correct_answer": "ADPCM Sampler",
+      "incorrect_answers": [
+        "FM Synthesizer",
+        "Programmable Sound Generator (PSG)",
+        "ADPCM Sampler",
+        "PCM Sampler"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following computer components can be built using only NAND gates?",
+      "correct_answer": "ALU",
+      "incorrect_answers": ["CPU", "ALU", "RAM", "Register"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?",
+      "correct_answer": "Coffee Lake",
+      "incorrect_answers": ["Coffee Lake", "Sandy Bridge", "Skylake", "Broadwell"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Lenovo acquired IBM's personal computer division, including the ThinkPad line of laptops and tablets, in what year?",
+      "correct_answer": "2005",
+      "incorrect_answers": ["1999", "2002", "2008", "2005"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?",
+      "correct_answer": "Cherry MX Blue",
+      "incorrect_answers": [
+        "Cherry MX Black",
+        "Cherry MX Red",
+        "Cherry MX Blue",
+        "Cherry MX Brown"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who is the founder of Palantir?",
+      "correct_answer": "Peter Thiel",
+      "incorrect_answers": ["Mark Zuckerberg", "Peter Thiel", "Marc Benioff", "Jack Dorsey"]
     }
   ]
 }

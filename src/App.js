@@ -8,6 +8,7 @@ import { useSelector, useDispatch } from 'react-redux';
 import { login, logOut } from './redux/actions';
 import Rules from './screens/RulesScreen';
 import Score from './screens/ScoreScreen';
+import Start from './screens/StartScreen';
 
 
 function App() {
@@ -33,6 +34,7 @@ function App() {
       return(
         <Routes>
           <Route path='/' element={<HomeScreen />} />
+          <Route path='/start' element={<Start />} />
           <Route path='/rules' element={<Rules />} />
           <Route path='/scores' element={<Score />} />
         </Routes>
