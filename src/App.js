@@ -9,6 +9,7 @@ import { login, logOut } from './redux/actions';
 import Rules from './screens/RulesScreen';
 import Score from './screens/ScoreScreen';
 import Start from './screens/StartScreen';
+import Error from './screens/Erorr404';
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
     if (user) {
       // User is signed in, see docs for a list of available properties
       // https://firebase.google.com/docs/reference/js/firebase.User
+      // eslint-disable-next-line no-unused-vars
       const uid = user.uid;
       // ...
       dispatch(login())
@@ -37,6 +39,7 @@ function App() {
           <Route path='/start' element={<Start />} />
           <Route path='/rules' element={<Rules />} />
           <Route path='/scores' element={<Score />} />
+          <Route path = '*' element={<Error />} />
         </Routes>
       )
     } else if(logState === 2 || logState === 0){

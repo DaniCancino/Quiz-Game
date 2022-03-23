@@ -1,0 +1,21 @@
+.Error{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    .error-image{
+        width: 470px;
+        height: 400px;
+    }
+    .error-text{
+        font-size: 3.3rem;
+        font-weight: 700;
+    }
+    .page-text{
+        font-size: 1.4rem;
+        font-weight: 600;
+        margin-top: -50px;
+    }
+}
