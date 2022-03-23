@@ -5,7 +5,6 @@ import { getAuth, GoogleAuthProvider, signInWithPopup } from "firebase/auth";
 import googleLogo from '../../assets/googleLogo.png'
 import app from '../../firebase'
 import logo from '../../assets/triviaLogo.png'
-import { useDispatch, useSelector } from "react-redux";
 
 
 
@@ -15,7 +14,7 @@ const InitScreen = () =>{
     const provider = new GoogleAuthProvider();
     
 
-    const handleLoginGoogle = () =>{
+    const handleLoginGoogle = (e) =>{
         signInWithPopup(auth, provider)
             .then((result) => {
                 // This gives you a Google Access Token. You can use it to access the Google API.
@@ -39,7 +38,7 @@ const InitScreen = () =>{
     return(
         <div className='Init'>
             <img src={logo} alt='trivia logo' className='triviaLogo' />
-            <button className='button' onClick={() => handleLoginGoogle()}>
+            <button className='button' onClick={(e) => handleLoginGoogle(e)}>
                 <img src={googleLogo} alt='google logo'className='googleLogo'/>
                 <p>Sign in with Google</p>
             </button> 
