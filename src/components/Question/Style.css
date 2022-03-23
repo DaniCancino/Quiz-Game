@@ -49,4 +49,36 @@
   font-size: 1.1rem;
   font-weight: 700;
 }
+
+@media (max-width: 700px) {
+  .Question {
+    width: 90%;
+    background: none;
+    border: none;
+    height: 300px;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    margin-top: 50px;
+  }
+  .Question .quiestion-container {
+    background: none;
+    color: #fff;
+  }
+}
+
+@media (max-width: 400px) {
+  .Question {
+    width: 90%;
+    background: none;
+    border: none;
+    height: 300px;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    margin-top: 10px;
+  }
+  .Question .quiestion-container {
+    background: none;
+    color: #fff;
+  }
+}
 /*# sourceMappingURL=Style.css.map */

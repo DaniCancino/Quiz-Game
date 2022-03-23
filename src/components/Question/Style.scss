@@ -28,3 +28,39 @@
         }
     }
 }
+
+
+
+//MEDIA QUERIES STYLES
+
+
+@media (max-width: 700px){
+    .Question{
+        width: 90%;
+        background: none;
+        border: none;
+        height: 300px;
+        box-shadow: none;
+        margin-top: 50px;
+        .quiestion-container{
+            background: none;
+            color: #fff;
+        }
+    }
+}
+
+
+@media (max-width: 400px){
+    .Question{
+        width: 90%;
+        background: none;
+        border: none;
+        height: 300px;
+        box-shadow: none;
+        margin-top: 10px;
+        .quiestion-container{
+            background: none;
+            color: #fff;
+        }
+    }
+}

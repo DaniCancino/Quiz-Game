@@ -48,3 +48,68 @@
         }
     }
 }
+
+
+
+
+//MEDIA QUERIES STYLES
+
+
+
+@media (max-width: 1024px){
+    .Header{
+        .greeting{
+            font-size: 2rem;
+        }
+    }
+}
+
+@media (max-width: 850px){
+    .Header{
+        .greeting{
+            font-size: 1.5rem;
+        }
+    }
+}
+
+
+@media (max-width: 750px){
+    .Header{
+        .greeting{
+            display: none;
+        }
+    }
+}
+
+
+@media (max-width: 450px){
+    .Header{
+        .trivia-logo{
+            width: 150px;
+            height: 35px;
+        }
+        .right-container{
+            .perfil-photo{
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            border: 2px solid #1af7aa;
+            margin-right: 10px;
+            transition: all ease 0.7s ;
+            }
+        }
+        .right-container{
+            .life-container{
+                p{
+                    font-size: 1rem;
+                    font-weight: 700;
+                    margin-right: 5px;
+                }
+                .star{
+                    width: 20px;
+                    height: 20px;
+                }
+            }
+        }
+    }
+}

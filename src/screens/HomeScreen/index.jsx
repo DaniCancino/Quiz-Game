@@ -39,14 +39,14 @@ const HomeScreen = () =>{
                     <img src={gameIcon} alt='game icon' className='icon' />
                     <p>Start</p>
                 </Link>
-                {/* <Link to = '/scores' className='button-home'>
+                <Link to = '/scores' className='button-home'>
                     <img src={scoreIcon} alt='score icon' className='icon' />
                     <p>Score</p>
                 </Link>
                 <Link to='/rules' className='button-home'>
                     <img src={rulesIcon} alt='rules icon' className='icon' />
                     <p>Rules</p>
-                </Link> */}
+                </Link>
             </div>
         </div>
     )

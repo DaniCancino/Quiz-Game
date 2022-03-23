@@ -84,4 +84,22 @@
   -webkit-transition: 0.3s;
   transition: 0.3s;
 }
+
+@media (max-width: 1024px) {
+  .HomeScreen .buttons-conatiner {
+    margin-top: 300px;
+  }
+}
+
+@media (max-width: 600px) {
+  .HomeScreen .buttons-conatiner {
+    margin-top: 150px;
+  }
+}
+
+@media (max-width: 400px) {
+  .HomeScreen .buttons-conatiner {
+    margin-top: 100px;
+  }
+}
 /*# sourceMappingURL=Style.css.map */

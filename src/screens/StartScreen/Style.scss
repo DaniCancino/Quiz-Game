@@ -111,3 +111,90 @@
     margin: 70px 100px 0 0 ;
     border: 2px solid #1af7aa;
 }
+
+
+
+// MEDIA QUERIES STYLES
+
+
+@media (max-width: 1024px){
+    .Start{
+        .button-answer{
+            font-size: 0.9rem;
+        }
+    }
+}
+
+
+@media (max-width: 1024px){
+    .Start{
+        .question-counter{
+            margin-top: 20px;
+        }
+        .Answers{
+            display: grid;
+            grid-template-columns: repeat(2, 2fr);
+            width: 90%;
+            margin-top: 150px;
+            margin-left: 20px;
+            .button-answer{
+                width: 90%;
+                font-size: 0.7rem;
+                font-weight: 700;
+            }
+        }
+        .next-button{
+            width: 45%;
+            margin-top: 150px;
+        }
+        .count-down{
+            width: 90px;
+            height: 90px;
+            margin: 90px 80px 0 0 ;
+        }
+    }
+}
+
+
+@media (max-width:500px){
+    .Start{
+        .Answers{
+            height: 300px;
+            margin-top: -150px;
+            .button-answer{
+                height: 80px;
+                font-size: 0.6rem;
+                font-weight: 700;
+            }
+        }
+        .count-down{
+            width: 60px;
+            height: 60px;
+            margin: 90px 150px 0 0 ;
+        }
+        .next-button{
+            margin-top: 80px;
+            width: 45%;
+        }
+    }
+}
+
+
+@media (max-width: 400px){
+    .Start{
+        .count-down{
+            border: none;
+            margin: 70px 150px 0 0 ;
+        }
+        .Answers{
+            margin-top: -230px;
+        }
+        .question-counter{
+            font-size: 1.5rem;
+        }
+        .next-button{
+            margin-top: 30px;
+            width: 40%;
+        }
+    }
+}
