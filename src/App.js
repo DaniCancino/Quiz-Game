@@ -46,6 +46,7 @@ function App() {
       return(
         <Routes>
           <Route path='/' element={<InitScreen />} />
+          <Route path = '*' element={<Error />} />
         </Routes>
       )
     }
@@ -60,7 +61,7 @@ function App() {
           <InitScreen />
         )
 
-    }
+      }
     </div>
   );
 }
