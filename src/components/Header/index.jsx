@@ -12,8 +12,8 @@ const Header = ({user, handleLogOut}) =>{
             <h2 className='greeting'>Hello {user.name}!</h2>
             <div className='right-container'>
                 <div className='life-container'>
-                    <p>5</p>
-                    <img src={star} alt='star' className='star' />
+                    {/* <p>5</p>
+                    <img src={star} alt='star' className='star' /> */}
                 </div>
                 <img src={user.perfilImage} alt='phot' className='perfil-photo'/>
                 <Perfil handleLogOut={handleLogOut}/>

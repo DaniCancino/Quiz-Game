@@ -154,8 +154,9 @@
   .Start .Answers {
     display: -ms-grid;
     display: grid;
-    -ms-grid-columns: (2fr)[2];
-        grid-template-columns: repeat(2, 2fr);
+    -ms-grid-columns: (1fr)[1];
+        grid-template-columns: repeat(1, 1fr);
+    row-gap: 10px;
     width: 90%;
     margin-top: 150px;
     margin-left: 20px;
@@ -182,7 +183,7 @@
     margin-top: -150px;
   }
   .Start .Answers .button-answer {
-    height: 80px;
+    height: 60px;
     font-size: 0.6rem;
     font-weight: 700;
   }
@@ -203,7 +204,7 @@
     margin: 70px 150px 0 0;
   }
   .Start .Answers {
-    margin-top: -230px;
+    margin-top: -170px;
   }
   .Start .question-counter {
     font-size: 1.5rem;

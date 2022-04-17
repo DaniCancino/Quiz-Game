@@ -133,7 +133,8 @@
         }
         .Answers{
             display: grid;
-            grid-template-columns: repeat(2, 2fr);
+            grid-template-columns: repeat(1, 1fr);
+            row-gap: 10px;
             width: 90%;
             margin-top: 150px;
             margin-left: 20px;
@@ -162,7 +163,7 @@
             height: 300px;
             margin-top: -150px;
             .button-answer{
-                height: 80px;
+                height: 60px;
                 font-size: 0.6rem;
                 font-weight: 700;
             }
@@ -187,7 +188,7 @@
             margin: 70px 150px 0 0 ;
         }
         .Answers{
-            margin-top: -230px;
+            margin-top: -170px;
         }
         .question-counter{
             font-size: 1.5rem;
