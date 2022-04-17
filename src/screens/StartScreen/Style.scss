@@ -185,17 +185,21 @@
     .Start{
         .count-down{
             border: none;
-            margin: 70px 150px 0 0 ;
+            margin: 55px 150px 0 0 ;
         }
         .Answers{
-            margin-top: -170px;
+            margin-top: -180px;
+            font-size: 1rem;
+            .button-answer{
+                font-size: 0.9rem;
+            }
         }
         .question-counter{
             font-size: 1.5rem;
             margin-top: -7px;
         }
         .next-button{
-            margin-top: 30px;
+            margin-top: 20px;
             width: 40%;
         }
     }
