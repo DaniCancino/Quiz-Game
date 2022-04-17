@@ -208,6 +208,7 @@
   }
   .Start .question-counter {
     font-size: 1.5rem;
+    margin-top: -7px;
   }
   .Start .next-button {
     margin-top: 30px;
