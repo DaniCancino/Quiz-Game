@@ -58,15 +58,15 @@
 }
 
 .triviaLogo {
-  width: 330px;
-  height: 80px;
+  width: 280px;
+  height: 250px;
   margin-top: 50px;
-  margin-bottom: 15%;
+  margin-bottom: 100px;
 }
 
 @media (max-width: 1024px) {
   .button {
-    margin-top: 300px;
+    margin-top: 200px;
   }
 }
 

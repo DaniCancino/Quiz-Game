@@ -18,8 +18,8 @@
 }
 
 .Header .trivia-logo {
-  width: 200px;
-  height: 50px;
+  width: 105px;
+  height: 100%;
 }
 
 .Header .greeting {
@@ -100,8 +100,8 @@
 
 @media (max-width: 450px) {
   .Header .trivia-logo {
-    width: 150px;
-    height: 35px;
+    width: 105px;
+    height: 100%;
   }
   .Header .right-container .perfil-photo {
     width: 40px;

@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../assets/triviaLogo.png'
+import logo from '../../assets/logoQuiz.png'
 import star from '../../assets/star.png';
 import './Style.css'
 import Perfil from '../Perfil';

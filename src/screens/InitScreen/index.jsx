@@ -4,7 +4,7 @@ import './Style.css';
 import { getAuth, GoogleAuthProvider, signInWithPopup } from "firebase/auth";
 import googleLogo from '../../assets/googleLogo.png'
 import app from '../../firebase'
-import logo from '../../assets/triviaLogo.png'
+import logo from '../../assets/logoQuiz.png'
 
 
 
