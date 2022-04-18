@@ -72,13 +72,13 @@
 
 @media (max-width: 800px) {
   .button {
-    margin-top: 200px;
+    margin-top: 150px;
   }
 }
 
 @media (max-width: 400px) {
   .button {
-    margin-top: 130px;
+    margin-top: 0px;
   }
 }
 /*# sourceMappingURL=Style.css.map */
